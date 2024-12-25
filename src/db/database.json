@@ -1,0 +1,8 @@
+{
+    "hotels": [
+      { "id": 1, "name": "Hotel A", "location": "New York", "rooms": 10 },
+      { "id": 2, "name": "Hotel B", "location": "Los Angeles", "rooms": 5 }
+    ],
+    "bookings": []
+  }
+  

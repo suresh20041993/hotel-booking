@@ -1,0 +1,62 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.pid.lock
+
+# Coverage reports
+coverage/
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript build outputs
+dist/
+out/
+
+# dotenv environment files
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+
+# Temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Build tools cache
+.cache/
+.parcel-cache/
+
+# Lint and formatter cache
+.eslintcache
+.stylelintcache
+
+# Testing
+jest/
+*.spec.ts
+*.test.ts
+
+# TypeScript
+*.tsbuildinfo
+
+# JSON DB (if dynamically generated)
+
+# Optional npm cache
+.npm/
+.npmrc

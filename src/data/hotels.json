@@ -1,0 +1,17 @@
+[
+    {
+      "id": "1",
+      "name": "Hotel Sunshine",
+      "location": "New York",
+      "roomsAvailable": 10,
+      "pricePerNight": 100
+    },
+    {
+      "id": "2",
+      "name": "Hotel Moonlight",
+      "location": "Los Angeles",
+      "roomsAvailable": 5,
+      "pricePerNight": 120
+    }
+  ]
+  
